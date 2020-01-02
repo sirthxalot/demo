@@ -1,8 +1,8 @@
 blank_issues_enabled: false
 contact_links:
-  - name: ":bulb: SUPPORT / QUESTIONS"
+  - name: "💡 SUPPORT / QUESTIONS"
     url: https://github.community/
     about: Visit Stack Overflow to ask questions or request for any other support.
-  - name: ":speech_balloon: CHAT"
+  - name: "💬 CHAT"
     url: https://bounty.github.com/
     about: Please report security vulnerabilities here.
