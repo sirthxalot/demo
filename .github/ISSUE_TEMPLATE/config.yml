@@ -1,8 +1,8 @@
 blank_issues_enabled: false
 contact_links:
-  - name: GitHub Community Forum
+  - name: ":bulb: SUPPORT / QUESTIONS"
     url: https://github.community/
-    about: Please ask and answer questions here.
-  - name: GitHub Security Bug Bounty
+    about: Visit Stack Overflow to ask questions or request for any other support.
+  - name: ":speech_balloon: CHAT"
     url: https://bounty.github.com/
     about: Please report security vulnerabilities here.
