@@ -1,8 +1,11 @@
 blank_issues_enabled: false
 contact_links:
-  - name: "💡 QUESTIONS"
+  - name: "💡 QUESTION"
     url: https://github.community/
     about: Visit Stack Overflow to ask questions or request for any other support.
   - name: "💬 CHAT"
     url: https://bounty.github.com/
+    about: Please report security vulnerabilities here.
+  - name: "🔒 SECURITY VULNERABILITY"
+    url: https://github.com/sirthxalot/demo/security/advisories/new
     about: Please report security vulnerabilities here.
