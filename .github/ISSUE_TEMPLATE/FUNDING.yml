@@ -1,6 +1,0 @@
-# This file is meant to configure your sponsor button. You can
-# configure the button to include sponsored developers in GitHub
-# Sponsors, external funding platforms, or a custom funding URL.
-# @SEE: https://help.github.com/en/github/administering-a-repository/displaying-a-sponsor-button-in-your-repository
-
-custom: ["https://www.paypal.com/paypalme2/AlexanderB734/5CHF"]
