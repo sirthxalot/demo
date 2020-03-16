@@ -36,8 +36,6 @@
   </a>
 </p>
 
-<p align="center">
-
 **Content**             | **Website**
 :---------------------- | :-----------------------------------------------------
 **Source Code**         | https://github.com/sirthxalot/laravel-bulma
@@ -51,8 +49,6 @@
 **Security Policy**     | https://sirthxalot.github.io/laravel-bulma
 **Changelog**           | https://sirthxalot.github.io/laravel-bulma
 **License**             | https://sirthxalot.github.io/laravel-bulma
- 
-</p>
 
 Introduction
 --------------------------------------------------------------------------------
