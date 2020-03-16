@@ -36,6 +36,20 @@
   </a>
 </p>
 
+Introduction
+--------------------------------------------------------------------------------
+
+The STA-Laravel Bulma is a family of responsive [front-end presets] 
+(UI's) that make it easy to design beautiful responsive websites, apps 
+and emails that are compatible with the [Laravel PHP framework][Laravel]. 
+It is semantic, readable, flexible, and completely customizable. Start
+building amazing content-focused websites based on the the [Bulma CSS 
+framework][bulma] and the [Vue.js JavaScript framework][vue] optimized 
+for common business use-cases.
+
+Ecosystem
+--------------------------------------------------------------------------------
+
 **Content**             | **Website**
 :---------------------- | :-----------------------------------------------------
 **Source Code**         | https://github.com/sirthxalot/laravel-bulma
@@ -49,17 +63,6 @@
 **Security Policy**     | https://sirthxalot.github.io/laravel-bulma
 **Changelog**           | https://sirthxalot.github.io/laravel-bulma
 **License**             | https://sirthxalot.github.io/laravel-bulma
-
-Introduction
---------------------------------------------------------------------------------
-
-The STA-Laravel Bulma is a family of responsive [front-end presets] 
-(UI's) that make it easy to design beautiful responsive websites, apps 
-and emails that are compatible with the [Laravel PHP framework][Laravel]. 
-It is semantic, readable, flexible, and completely customizable. Start
-building amazing content-focused websites based on the the [Bulma CSS 
-framework][bulma] and the [Vue.js JavaScript framework][vue] optimized 
-for common business use-cases.
 
 Features
 --------------------------------------------------------------------------------
