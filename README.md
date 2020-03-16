@@ -128,6 +128,9 @@ to update Composer to its latest version.
 
 ### NPM or Yarn (optional)
 
+https://www.npmjs.com/  
+https://yarnpkg.com/
+
 Basically [NPM] and [Yarn] do the same like Composer does except that
 their dependency focuses on [Node.js] or JavaScript dependencies. Both
 can be used in order to manage the assets, e.g. stylesheets or JavaScripts 
@@ -144,6 +147,8 @@ npm --version
 ```
 
 ### PHP
+
+https://www.php.net/
 
 The STA-Laravel Bulma is a [PHP] package, hence you must ensure that 
 you have installed **PHP equal or above version 7.2.5** ([`≥7.2.5`]).
